@@ -3,7 +3,7 @@ Tested on Ubuntu 14.04
 Installlation:
   
         $> sudo apt-get install gpsbabel
-	$> pip install beautifulsoup4
+        $> pip install beautifulsoup4
 
 
 To run & generate .gpx files:
